@@ -6,7 +6,7 @@
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alonwalker06/EvilBot.git)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alonwalker06/LaylaRobot.git)</p>
 <H2 align=center>___________</h2>
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
