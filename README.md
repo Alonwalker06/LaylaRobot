@@ -1,7 +1,13 @@
-[![Deploy](https://telegra.ph/file/aaa10262ebe6670eecf58.jpg)](https://heroku.com/deploy?template=https://github.com/Alonwalker06/LaylaRobot.git)
+
 # Layla Robot
 ### Click Below Image to Deploy
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+<h1 align=center>😈ALAN WALKER😈</h1>
+<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+
+## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alonwalker06/EvilBot.git)</p>
+<H2 align=center>___________</h2>
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
